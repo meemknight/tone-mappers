@@ -1,8 +1,9 @@
 # Tonemappers for you to USE!
 
 ## Copy-paste tone mappers for you to use! Make sure you READ THE IMPORTANT THINGS!
+Tonemappers make your image look better, and fix the problem of lights surpassing values of 1!
 
-## Youtube Video [HERE]()!
+## Youtube Video [HERE](https://youtu.be/1SFg2MXCEMs)!
 
 # Important things!
 
