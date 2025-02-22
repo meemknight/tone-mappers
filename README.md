@@ -1,8 +1,8 @@
 # Tonemappers for you to USE!
 
-##Copy paste tone mappers for you to use! Make sure you READ THE IMPORTANT THINGS!
+## Copy-paste tone mappers for you to use! Make sure you READ THE IMPORTANT THINGS!
 
-##Youtube Video [HERE]()!
+## Youtube Video [HERE]()!
 
 # Important things!
 
