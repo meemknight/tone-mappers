@@ -6,11 +6,11 @@
 
 # Important things!
 
-- I talk about how cheap or expensive these tone mappers are but they are still something very cheap, especially for modern hardware
-- Make sure you do gamma correction, and also AGX has the gamma correction step already applied so if you use that one, don't do ```return pow(a, vec3(1.f/2.2));``` at the end!
-- I will add more tone mappers as I find them so consider starting this repo 💪!
-- I have a BONUS thing in the srgb folder, to make your game look even better!
-- If you want to learn more here are some resources:
+- ❗ I talk about how cheap or expensive these tone mappers are but they are still something very cheap, especially for modern hardware 
+- ❗ Make sure you do gamma correction, and also AGX has the gamma correction step already applied so if you use that one, don't do ```return pow(a, vec3(1.f/2.2));``` at the end!
+- ⭐ I will add more tone mappers as I find them so consider starting this repo 💪!
+- 🎁 I have a BONUS thing in the srgb folder, to make your game look even better! 
+- 📚 If you want to learn more here are some resources:
 
 https://learnopengl.com/Advanced-Lighting/Gamma-Correction
 https://learnopengl.com/Advanced-Lighting/HDR
