@@ -1,16 +1,17 @@
 # Tonemappers for you to USE!
 
 ## Copy-paste tone mappers for you to use! Make sure you READ THE IMPORTANT THINGS!
+Tonemappers make your image look better, and fix the problem of lights surpassing values of 1!
 
-## Youtube Video [HERE]()!
+## Youtube Video [HERE](https://youtu.be/1SFg2MXCEMs)!
 
 # Important things!
 
-- I talk about how cheap or expensive these tone mappers are but they are still something very cheap, especially for modern hardware
-- Make sure you do gamma correction, and also AGX has the gamma correction step already applied so if you use that one, don't do ```return pow(a, vec3(1.f/2.2));``` at the end!
-- I will add more tone mappers as I find them so consider starting this repo 💪!
-- I have a BONUS thing in the srgb folder, to make your game look even better!
-- If you want to learn more here are some resources:
+- ❗ I talk about how cheap or expensive these tone mappers are but they are still something very cheap, especially for modern hardware 
+- ❗ Make sure you do gamma correction, and also AGX has the gamma correction step already applied so if you use that one, don't do ```return pow(a, vec3(1.f/2.2));``` at the end!
+- ⭐ I will add more tone mappers as I find them so consider starting this repo 💪!
+- 🎁 I have a BONUS thing in the srgb folder, to make your game look even better! 
+- 📚 If you want to learn more here are some resources:
 
 https://learnopengl.com/Advanced-Lighting/Gamma-Correction
 https://learnopengl.com/Advanced-Lighting/HDR
@@ -51,7 +52,7 @@ crazy overdraw, it won't be a problem. To remove overdraw completely without usi
 ---
 
 ## AGX
-Agx aims to be similar to ACES but less dramatic so maybe more suitable for some games. It is also cheaper than ACES.
+Agx aims to be similar to ACES but less dramatic so may be more suitable for some games. It is also cheaper than ACES.
 
 
 - (punchy setting)
@@ -64,6 +65,26 @@ Agx aims to be similar to ACES but less dramatic so maybe more suitable for some
 - (golden setting)
 
 ![image](https://github.com/user-attachments/assets/5efb56d7-1244-49d9-9c52-19464ee3f919)
+
+
+## PBR neutral
+This tone mapper aims to be very neutral, and it is more saturated in comparison to other tone mappers, and as the name suggests, aims to work well with physically based rendering and maintain 
+realism. The very neutral look looks very good in my opinion and as with Zcam, a good starting point if you want to add your own extra effects on top!
+
+![image](https://github.com/user-attachments/assets/85624036-66ab-4654-a3df-5ecfe998bf23)
+
+
+## Lottes
+This is another film tone mapper, and this one is very bright.
+
+![image](https://github.com/user-attachments/assets/e8a54e1b-9c12-4a31-987c-a94f5ad4cb1a)
+
+
+## Filmic
+
+Yet another filmic tone mapper, I would say this is the most balanced of them all!
+
+![image](https://github.com/user-attachments/assets/530bb10c-d007-476e-91e5-5cf5b1259d82)
 
 
 
