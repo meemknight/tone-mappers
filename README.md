@@ -32,6 +32,13 @@ I like the uncharted tonemapper the most because it is the most balanced, and it
 
 ---
 
+## No tonemapper!
+
+Probably not obvious from this screenshot but no tone mapper also means all lights brighter than 1 are equal to 1, leading to ugly light clamping 😟☹️
+
+![image](https://github.com/user-attachments/assets/6b9bc748-591d-438b-bdfa-cf573e59fa71)
+
+
 
 ## ACES:
 The Aces tone mapper is used in the film industry and it is very good, and it does indeed offer a filmic look. The best part about it is that it makes bright lights turn white no matter their original color.
