@@ -52,7 +52,7 @@ crazy overdraw, it won't be a problem. To remove overdraw completely without usi
 ---
 
 ## AGX
-Agx aims to be similar to ACES but less dramatic so maybe more suitable for some games. It is also cheaper than ACES.
+Agx aims to be similar to ACES but less dramatic so may be more suitable for some games. It is also cheaper than ACES.
 
 
 - (punchy setting)
@@ -65,6 +65,13 @@ Agx aims to be similar to ACES but less dramatic so maybe more suitable for some
 - (golden setting)
 
 ![image](https://github.com/user-attachments/assets/5efb56d7-1244-49d9-9c52-19464ee3f919)
+
+
+## PBR neutral
+This tone mapper aims to be very neutral, and it is more saturated in comparison to other tone mappers, and as the name suggests, aims to work well with physically based rendering and maintain 
+realism. The very neutral look looks very good in my opinion and as with Zcam, a good starting point if you want to add your own extra effects on top!
+
+![image](https://github.com/user-attachments/assets/85624036-66ab-4654-a3df-5ecfe998bf23)
 
 
 
