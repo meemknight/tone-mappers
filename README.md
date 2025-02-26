@@ -74,6 +74,19 @@ realism. The very neutral look looks very good in my opinion and as with Zcam, a
 ![image](https://github.com/user-attachments/assets/85624036-66ab-4654-a3df-5ecfe998bf23)
 
 
+## Lottes
+This is another film tone mapper, and this one is very bright.
+
+![image](https://github.com/user-attachments/assets/e8a54e1b-9c12-4a31-987c-a94f5ad4cb1a)
+
+
+## Filmic
+
+Yet another filmic tone mapper, I would say this is the most balanced of them all!
+
+![image](https://github.com/user-attachments/assets/530bb10c-d007-476e-91e5-5cf5b1259d82)
+
+
 
 
 
